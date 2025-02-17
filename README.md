@@ -13,7 +13,7 @@ With a background in Physics, I’m expanding my skills by combining machine lea
 
 ### 2. Image Compression & Recognition with Keras
 
-- **Description**:Implemented image compression and recognition using Keras.
+- **Description**: Implemented image compression and recognition using Keras.
 
 ## Contact
 
