@@ -8,7 +8,7 @@ With a background in Physics, I’m expanding my skills by combining machine lea
 
 ### 1. Training Neural Networks
 
-- **Description**:Basics of training neural networks.
+- **Description**: Basics of training neural networks.
 - Files: `polynomial_model_sgd.ipynb`
 
 ## Contact
