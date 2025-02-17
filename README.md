@@ -8,7 +8,8 @@ With a background in Physics, I’m expanding my skills by combining machine lea
 
 ### 1. Training Neural Networks
 
-Basics of training neural networks.
+- Basics of training neural networks.
+- Files: `polynomial`
 
 ## Contact
 
