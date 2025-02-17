@@ -11,6 +11,10 @@ With a background in Physics, I’m expanding my skills by combining machine lea
 - **Description**: Basics of training neural networks.
 - Files: `polynomial_model_sgd.ipynb`
 
+### 2. Image Compression & Recognition with Keras
+
+- **Description**:Implemented image compression and recognition using Keras.
+
 ## Contact
 
 Feel free to reach out to me via adyaabba12@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/adya_abba).
