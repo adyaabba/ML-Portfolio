@@ -16,6 +16,10 @@ With a background in Physics, I’m expanding my skills by combining machine lea
 - **Description**: Implemented image compression and recognition using Keras.
 - Files: `MNIST_Noise_Training_2.ipynb`
 
+### 3. CNNs & Autoencoders
+- **Description**: Working with convolutional neural networks and autoencoders.
+
+
 ## Contact
 
 Feel free to reach out to me via adyaabba12@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/adya_abba).
