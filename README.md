@@ -28,7 +28,7 @@ Applied PCA and t-SNE for dimensionality reduction and data visualization.
 
 ### 6. Mini Project
 - **Description**: Developed ML models (CNN, Conv1D, RNN) for neutrino event detection in CRES data, optimizing predictions with feature engineering and statistical analysis. Achieved RMSE of 0.122 ms (start times) and 0.489 MHz (start frequencies) using Python (NumPy, SciPy, Pandas, Matplotlib).
-- Files: `Week4_MNIST_CNN-4.ipynb` 
+- Files: `cresWeb-3.ipynb` 
 
 ## Contact
 
