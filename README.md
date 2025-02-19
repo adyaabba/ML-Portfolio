@@ -18,7 +18,7 @@ With a background in Physics, I’m expanding my skills by combining machine lea
 
 ### 3. CNNs & Autoencoders
 - **Description**: Working with convolutional neural networks and autoencoders.
-- Files: `Week4_MNIST_CNN-4.ipynb` 
+- Files: `Week4_MNIST_CNN-4.ipynb`  `Week4_AutoencoderChallenge-4.ipynb`
 
 ### 4. Unsupervised Learning (PCA, t-SNE)
 Applied PCA and t-SNE for dimensionality reduction and data visualization.
