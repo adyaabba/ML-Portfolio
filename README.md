@@ -14,7 +14,7 @@ With a background in Physics, I’m expanding my skills by combining machine lea
 ### 2. Image Compression & Recognition with Keras
 
 - **Description**: Implemented image compression and recognition using Keras.
-- Files: 'MNIST_Noise_Training_2.ipynb'
+- Files: `MNIST_Noise_Training_2.ipynb`
 
 ## Contact
 
