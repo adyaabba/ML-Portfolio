@@ -21,7 +21,8 @@ With a background in Physics, I’m expanding my skills by combining machine lea
 - Files: `Week4_MNIST_CNN-4.ipynb`  `Week4_AutoencoderChallenge-4.ipynb`
 
 ### 4. Unsupervised Learning (PCA, t-SNE)
-Applied PCA and t-SNE for dimensionality reduction and data visualization.
+- **Description**: Applied PCA and t-SNE for dimensionality reduction and data visualisation.
+- Files: `CWD_ML_Adya_2.ipynb`
 
 ### 5.Sequence Modeling (RNN, LSTM)
 - **Description**: Built and trained RNNs and LSTMs for sequence-based tasks.
